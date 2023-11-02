@@ -1,0 +1,11 @@
+notebook
+opencv-python-headless 
+ipython
+matplotlib
+keras 
+tensorflow
+keras.models
+spotipy
+ipywidgets
+sklearn
+scikit-learn
